@@ -1,6 +1,6 @@
 <div align="center" style="height:150px;">
 
-   <h1 style="color: #7957d5; text-align: center;">Hi 👋, I'm Bilal Ahmed</h1>
+![Hi 👋, I'm Bilal Ahmed](https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Bilal%20Ahmed-%237957d5.svg)
 
    <p>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;4+Years+of+Professional+Experience;10%2B+Projects+Completed;Always+Seeking+to+Enhance+My+Skills" alt="Typing SVG" />
