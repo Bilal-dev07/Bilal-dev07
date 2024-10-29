@@ -1,7 +1,5 @@
 <img src="/assets/top-wave.svg"/>
 
-</br>
-
 <div align="center" style="height:150px;">
 
    <img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Bilal%20Ahmed-%237957d5.svg" alt="Hi 👋, I'm Bilal Ahmed" width="200"/>
