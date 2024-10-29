@@ -1,10 +1,6 @@
-<h1 align="center" style="color: #7957d5;">Hi 👋, I'm </h1>
-
 <div align="center" style="height:150px;">
 
-   <p>
-      <h1 style="color: #7957d5; font-family: 'Fira Code', monospace; font-size: 22px;">Bilal Ahmed</h1>
-   </p>
+   <h1 style="color: #7957d5; text-align: center;">Hi 👋, I'm Bilal Ahmed</h1>
 
    <p>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;4+Years+of+Professional+Experience;10%2B+Projects+Completed;Always+Seeking+to+Enhance+My+Skills" alt="Typing SVG" />
