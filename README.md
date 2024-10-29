@@ -7,7 +7,7 @@
    </p>
 </div>
 
-<h2 style="color: #7957d5;">💻 Who I Am</h2>
+## 💻 Who I Am
 
 <p>
 I'm a dedicated <strong>Full Stack Developer</strong> with <strong>4 years</strong> of extensive experience in building and optimizing web applications. My focus is on creating scalable and high-performance solutions using modern technologies such as <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I have a strong passion for problem-solving and am committed to writing clean, maintainable code, contributing to project success through innovative technical solutions.
@@ -18,7 +18,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-<h2 style="color: #7957d5;">Technical Proficiencies</h2>
+## 🛠 Technical Proficiencies
 
 ### **Core Languages & Frameworks**
 
@@ -52,7 +52,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-<h2 style="color: #7957d5;">🌟 My GitHub Contributions</h2>
+## 🌟 My GitHub Contributions
 
 ![Bilal Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-dev07&show_icons=true&theme=buefy&cache_buster=1)
 
@@ -60,7 +60,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-<h2 style="color: #7957d5;">🤝 Collaboration Opportunities</h2>
+## 🤝 Collaboration Opportunities
 
 I am open to exploring new projects and opportunities. If you need a dedicated Full Stack Developer or wish to connect, please don't hesitate to reach out.
 
