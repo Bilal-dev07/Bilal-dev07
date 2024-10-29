@@ -3,7 +3,7 @@
 <div align="center" style="height:150px;">
 
    <p>
-      <span style="color: #7957d5; font-family: 'Fira Code', monospace; font-size: 22px">Bilal Ahmed</span>
+      <h1 style="color: #7957d5; font-family: 'Fira Code', monospace; font-size: 22px;">Bilal Ahmed</h1>
    </p>
 
    <p>
@@ -11,7 +11,7 @@
    </p>
 </div>
 
-<span style="color: #7957d5;">💻 Who I Am</span>
+<h2 style="color: #7957d5;">💻 Who I Am</h2>
 
 <p>
 I'm a dedicated <strong>Full Stack Developer</strong> with <strong>4 years</strong> of extensive experience in building and optimizing web applications. My focus is on creating scalable and high-performance solutions using modern technologies such as <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I have a strong passion for problem-solving and am committed to writing clean, maintainable code, contributing to project success through innovative technical solutions.
@@ -22,7 +22,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-<span style="color: #7957d5;">Technical Proficiencies</span>
+<h2 style="color: #7957d5;">Technical Proficiencies</h2>
 
 ### **Core Languages & Frameworks**
 
@@ -56,7 +56,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-<span style="color: #7957d5;">🌟 My GitHub Contributions</span>
+<h2 style="color: #7957d5;">🌟 My GitHub Contributions</h2>
 
 ![Bilal Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal-dev07&show_icons=true&theme=buefy&cache_buster=1)
 
@@ -64,7 +64,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-<span style="color: #7957d5;">🤝 Collaboration Opportunities</span>
+<h2 style="color: #7957d5;">🤝 Collaboration Opportunities</h2>
 
 I am open to exploring new projects and opportunities. If you need a dedicated Full Stack Developer or wish to connect, please don't hesitate to reach out.
 
