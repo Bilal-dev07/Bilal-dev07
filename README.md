@@ -20,7 +20,7 @@ I excel in fast-paced environments and enjoy collaborating with cross-functional
 
 ---
 
-## 🛠 Technical Proficiencies
+## 🔧 Skills Overview
 
 ### **Core Languages & Frameworks**
 
