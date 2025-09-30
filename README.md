@@ -12,7 +12,7 @@
 ## 💻 Who I Am
 
 <p>
-I'm a dedicated <strong>Full Stack Developer</strong> with <strong>4 years</strong> of extensive experience in building and optimizing web applications. My focus is on creating scalable and high-performance solutions using modern technologies such as <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I have a strong passion for problem-solving and am committed to writing clean, maintainable code, contributing to project success through innovative technical solutions.
+I'm a dedicated <strong>Full Stack Developer</strong> with <strong>5+ years</strong> of extensive experience in building and optimizing web applications. My focus is on creating scalable and high-performance solutions using modern technologies such as <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I have a strong passion for problem-solving and am committed to writing clean, maintainable code, contributing to project success through innovative technical solutions.
 
 I excel in fast-paced environments and enjoy collaborating with cross-functional teams to design, develop, and deploy reliable systems that enhance user experiences and achieve business objectives.
 
